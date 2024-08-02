@@ -20,7 +20,7 @@
 Clone the repository
 
 ```bash
-https://github.com/krishnaik06/Kidney-Disease-Classification-Deep-Learning-Project
+https://github.com/Homak-Patel/Nephronet---End-to-End-ML-Deployed-Pipeline-for-Kidney-Disease-Classification-using-Deep-Learning
 ```
 ### STEP 01- Create a conda environment after opening the repository
 
